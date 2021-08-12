@@ -1,5 +1,4 @@
 ![catgg](https://user-images.githubusercontent.com/54041245/129121551-16f0a9ab-1892-44cd-8d51-66a0a6a79004.gif)
-![*Welcome to my GitHub ^^*](https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-globalization-big-data-interconnected-link-image_18777.jpg)
 # Hi there 👋, i'm **Lus**
 #### *Welcome to my GitHub ^^*
 I'm a newbie.
