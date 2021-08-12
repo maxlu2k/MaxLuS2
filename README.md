@@ -4,7 +4,7 @@
 I'm a newbie.
  Currently, I am still a student at FPT College. I also love coding, if you are like me contact me, we can exchange knowledge and learn more. **Nice to meet you !**
 
-### Skill 
+## Skill 
 * HTML
 * CSS
 * JAVA / JS
