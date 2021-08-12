@@ -1,8 +1,6 @@
+![*Welcome to my GitHub ^^*](https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-globalization-big-data-interconnected-link-image_18777.jpg)
 # Hi there 👋, i'm **Lus**
 #### *Welcome to my GitHub ^^*
-![*Welcome to my GitHub ^^*](https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-globalization-big-data-interconnected-link-image_18777.jpg)
-
-## About me
 I'm a newbie.
  Currently, I am still a student at FPT College. I also love coding, if you are like me contact me, we can exchange knowledge and learn more. **Nice to meet you !**
 
