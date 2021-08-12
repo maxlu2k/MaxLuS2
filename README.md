@@ -1,4 +1,4 @@
-![catgg](https://user-images.githubusercontent.com/54041245/129121551-16f0a9ab-1892-44cd-8d51-66a0a6a79004.gif)![catgg](https://user-images.githubusercontent.com/54041245/129121551-16f0a9ab-1892-44cd-8d51-66a0a6a79004.gif)
+![catgg](https://user-images.githubusercontent.com/54041245/129121551-16f0a9ab-1892-44cd-8d51-66a0a6a79004.gif)
 # Hi there 👋, i'm **Lus**
 #### *Welcome to my GitHub ^^*
 I'm a newbie.
