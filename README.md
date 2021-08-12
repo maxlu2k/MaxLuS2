@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, i'm **Lus**
+#### *Welcome to my GitHub ^^*
+![*Welcome to my GitHub ^^*](https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-globalization-big-data-interconnected-link-image_18777.jpg)
 
-<!--
-**MaxLuS2/MaxLuS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a newbie.
+You can contact me on this [Facebook](https://www.facebook.com/profile.php?id=100022771942685)
+We can exchange and learn more.
 
-Here are some ideas to get you started:
+### Skill 
+* HTML
+* CSS
+* JAVA / JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning java 
+- 💬 Ask me about Ask me about anything, if I know I will answer 
+- 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100022771942685) 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MaxLuS2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100022771942685)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mdung_lus//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC48Z2L5vpNCULo2kZn3oDXA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='40'>](https://soundcloud.com/fryman-352499392)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/profiles/76561197975103931)  
